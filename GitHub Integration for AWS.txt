@@ -1,0 +1,15 @@
+memory crash on S&P 500 growth = batch it?
+https://stackoverflow.com/questions/5866054/return-just-the-last-day-of-each-month-with-sql
+
+
+schedule series order and timing (don't need shiller every time)
+
+key
+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
+
+
+
+
+https://medium.com/@AshKamdar/3-integrate-aws-cloud9-with-github-a1982e05844f
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me
